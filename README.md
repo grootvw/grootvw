@@ -1,0 +1,33 @@
+# Здравствуйте 👋
+
+## О себе
+Меня зовут Пётр Иванов, я графический дизайнер, занимаюсь данным творчеством на протяжение пяти лет. Занимаюсь разработкой дизайнов для оклейки авто,витрин магазинов
+Внимателен к мелочам , слушаю клиента и выполняю по тз
+Есть навыки работы с нейросетями
+Фотограф
+## Tools 
+
+Corel draw;
+Adobe Illustrator;
+Adobe Photoshop;
+Adobe inDesign;
+Adobe After Effects;
+CapCut;
+Lightroom;
+Figma;
+Tilda.
+
+<!--
+**grootvw/grootvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
