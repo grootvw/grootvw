@@ -6,9 +6,11 @@
 Есть навыки работы с нейросетями
 Фотограф
 ## Tools  
-
-
-
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/1667px-Figma-logo.svg.png)
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/CAP%20CUT.png)
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/PAKET%20ADOBE.jpg)
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/Tilda_Logo.png)
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/coreldraw_2018.png)
 <!--
 **grootvw/grootvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
