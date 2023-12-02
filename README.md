@@ -5,17 +5,9 @@
 Внимателен к мелочам , слушаю клиента и выполняю по тз
 Есть навыки работы с нейросетями
 Фотограф
-## Tools 
+## Tools  
 
-Corel draw;
-Adobe Illustrator;
-Adobe Photoshop;
-Adobe inDesign;
-Adobe After Effects;
-CapCut;
-Lightroom;
-Figma;
-Tilda.
+
 
 <!--
 **grootvw/grootvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
