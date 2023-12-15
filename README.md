@@ -11,6 +11,8 @@
 ![Image_alt](https://github.com/grootvw/grootvw/blob/main/PAKET%20ADOBE.jpg)
 ![Image_alt](https://github.com/grootvw/grootvw/blob/main/Tilda_Logo.png)
 ![Image_alt](https://github.com/grootvw/grootvw/blob/main/coreldraw_2018.png)
+## Дипломы/сертификаты 
+![Image_alt](https://github.com/grootvw/grootvw/blob/main/Skan%20(21).jpg)
 <!--
 **grootvw/grootvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
